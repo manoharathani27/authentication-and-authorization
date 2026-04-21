@@ -1,1 +1,1 @@
-Authentication and Autherization project
+Authentication and Authorization project
